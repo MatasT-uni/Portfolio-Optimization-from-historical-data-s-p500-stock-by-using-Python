@@ -1,6 +1,14 @@
 Financial Engineering: Portfolio Optimization
 This project focuses on constructing an optimized portfolio using historical data from the S&P 500. The portfolio is designed to balance risk and return by minimizing risk or maximizing the Sharpe Ratio, considering various constraints and bounds.
 
+The data collection process involved downloading historical adjusted closing prices for a set of chosen stocks from the S&P 500 index using Yahoo Finance. The selected stocks for this analysis are:
+●	Apple Inc. (AAPL)
+●	Microsoft Corp. (MSFT)
+●	Alphabet Inc. (GOOGL)
+●	Amazon.com Inc. (AMZN)
+●	NVIDIA Corp. (NVDA)
+
+
 Project Structure
 The project is divided into several key steps:
 
