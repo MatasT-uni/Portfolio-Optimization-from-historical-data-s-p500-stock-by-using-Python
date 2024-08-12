@@ -46,5 +46,3 @@ matplotlib
 yfinance
 Any other dependencies specific to portfolio optimization (to be detailed based on code content)
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
