@@ -3,9 +3,13 @@ This project focuses on constructing an optimized portfolio using historical dat
 
 The data collection process involved downloading historical adjusted closing prices for a set of chosen stocks from the S&P 500 index using Yahoo Finance. The selected stocks for this analysis are:
 ●	Apple Inc. (AAPL)
+
 ●	Microsoft Corp. (MSFT)
+
 ●	Alphabet Inc. (GOOGL)
+
 ●	Amazon.com Inc. (AMZN)
+
 ●	NVIDIA Corp. (NVDA)
 
 
